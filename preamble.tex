@@ -1,0 +1,20 @@
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[a4paper,margin=22mm,headheight=15pt]{geometry}
+\usepackage{amsmath,amssymb,booktabs,array,tabularx,graphicx,xcolor,tikz}
+\usetikzlibrary{arrows.meta,positioning}
+\usepackage[numbers,sort&compress]{natbib}
+\usepackage[unicode,colorlinks=true,linkcolor=black,citecolor=black,urlcolor=blue]{hyperref}
+\definecolor{ink}{HTML}{153348}
+\definecolor{accent}{HTML}{CE164E}
+\definecolor{muted}{HTML}{546671}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+\setlength{\emergencystretch}{4em}
+\renewcommand{\arraystretch}{1.17}
+\newcommand{\pagehead}[2]{\clearpage{\small\color{accent}\textbf{#1}}\par\vspace{3mm}{\LARGE\color{ink}\textbf{#2}}\par\vspace{3mm}}
+\newcommand{\sub}[1]{\par\vspace{2mm}{\large\color{ink}\textbf{#1}}\par}
+\newcommand{\evidence}[1]{\par\vspace{2pt}{\raggedright\footnotesize\color{muted}Projektbeleg: #1\par}}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\hypersetup{pdftitle={KUKA KR16 L6: Physik und Daten als Healthy-Referenz},pdfauthor={Mounir Belboualia}}
