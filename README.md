@@ -66,3 +66,7 @@ Associated publication: Moore and Sawyer, *Equipment Health Monitoring for Indus
 
 The original dataset and publication are external contributions, not publications by this repository's author. This personal project is not an official institutional publication or endorsement. Dataset permissions do not by themselves grant a licence to every item in this repository.
 
+
+## Participate and reproduce
+
+Read [the research agenda](RESEARCH_AGENDA.md) and [collaboration guidance](CONTRIBUTING.md). A [separate synthetic oscillator demonstration](https://github.com/Mo22Ha/physics-informed-modeling-under-uncertainty) provides runnable code, five tests and a forecast stress case. It is not additional KUKA validation.

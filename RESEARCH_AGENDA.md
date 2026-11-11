@@ -13,7 +13,7 @@ The existing KUKA reports document conditional models, limited predictive gains 
 
 ## Small reproducible entry point
 
-The separate synthetic oscillator demonstration explores amplitude–orientation ambiguity and forecast degradation after an observation-model change. It does not reuse KUKA implementation code or add empirical robot evidence. Its model-family advantage and restricted baseline are explicit.
+The [separate synthetic oscillator demonstration](https://github.com/Mo22Ha/physics-informed-modeling-under-uncertainty) explores amplitude–orientation ambiguity and forecast degradation after an observation-model change. It does not reuse KUKA implementation code or add empirical robot evidence. Its model-family advantage and restricted baseline are explicit.
 
 ## Proposed next experiment
 
